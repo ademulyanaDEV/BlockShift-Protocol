@@ -61,4 +61,4 @@ This project is licensed under the [BlockShift-Protocol]. See the [LICENSE](LICE
 
 ---
 
-For more information about BlockShift (BLS), please visit our [website](Your Website Link) or contact us at [Your Contact Email].
+For more information about BlockShift (BLS), please visit our [BlockShift] or contact us at [BlockShift].
