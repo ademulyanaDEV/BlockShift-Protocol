@@ -51,9 +51,9 @@ BlockShift (BLS) is a Bitcoin-based token designed to facilitate cross-chain tra
 
 ## Contact and Support
 
-- **Website:** [Your Website Link]
-- **Contact Email:** [Your Contact Email]
-- **Support Team:** [Link to Support Team]
+- **Website:** 
+- **Contact Email:** 
+- **Support Team:** ademulyana.developer@gmail.com
 
 ## License
 
